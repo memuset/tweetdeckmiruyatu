@@ -4,8 +4,8 @@ Pythonista 3というアプリが必要です。
 これ→ https://itunes.apple.com/jp/app/pythonista-3/id1085978097?mt=8
 
 Python初めて書きましたJavascriptも初めて書きました。誰かに作り直してもらいたいワ。
-iPhone7、または8ではちゃんと動くと思いますが、Xやplus、SEではうまく動かないかもしれません。
-なんとかplusの方はtweetdeck.pyの83行目の「363+"px"」の数字を402にすると良いみたいです。教えてくれたオッカーさんに感謝🙏
+ iPhone7、または8ではちゃんと動くと思いますが、Xやplus、SEではうまく動かないかもしれません。
+ なんとかplusの方はtweetdeck.pyの83行目の「363+"px"」の数字を402にすると良いみたいです。教えてくれたオッカーさんに感謝🙏
 
 minってついてるやつはTweetdeckの左のバーが出ます、そうじゃないのは消えます。
 
