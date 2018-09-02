@@ -9,5 +9,6 @@ iPhone7、または8ではちゃんと動くと思いますが、Xやplus、SE�
 引っ張って再読み込みできませんでした、悲しいね。
 
 スクショです
+
 ![img_0804](https://user-images.githubusercontent.com/15945113/44958906-d52bd000-af21-11e8-9e68-23f26d150ac1.png)
 ![img_0805](https://user-images.githubusercontent.com/15945113/44958907-da891a80-af21-11e8-9fcc-ff14f4b917b2.png)
