@@ -1,0 +1,54 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {320, 504}}",
+        "class" : "WebView",
+        "attributes" : {
+          "flex" : "WH",
+          "uuid" : "D24217DF-B6A1-4BCF-A8FB-CB199E804A20",
+          "enabled" : true,
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "name" : "webview",
+          "scales_to_fit" : false
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{240, 410}, {56, 56}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "LT",
+          "action" : "",
+          "name" : "tweet",
+          "frame" : "{{120, 236}, {80, 32}}",
+          "title" : "",
+          "uuid" : "F713C4B5-3615-4CF9-AF83-B278C6527B37",
+          "class" : "Button",
+          "font_bold" : false,
+          "font_size" : 15,
+          "image_name" : "iob:compose_256"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 504}}",
+    "class" : "View",
+    "attributes" : {
+      "flex" : "",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "custom_class" : "BrowserView",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "Tweetdeck"
+    },
+    "selected" : false
+  }
+]
