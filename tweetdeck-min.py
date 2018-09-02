@@ -1,6 +1,6 @@
 # coding: utf-8
 
-import console, json, os, pickle, ui, urllib.parse,webbrowser,tweepy
+import console, json, os, pickle, ui, urllib.parse,webbrowser
 from objc_util import *
 
 class BrowserView (ui.View):
@@ -49,7 +49,7 @@ class BrowserView (ui.View):
 	def webview_did_finish_load(self, webview):
 		self.webpage_has_loaded = True
 
-view = 'ipad' if ui.get_screen_size()[0] >= 768 else 'iphone'
+view = 'iphone'
 browser = ui.load_view(view)
 browser.present(hide_title_bar=True,style='panel')
 
